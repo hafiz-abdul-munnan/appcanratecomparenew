@@ -1,0 +1,8 @@
+{
+  "name": "Can Rate Compare - Group Benefits Funnel",
+  "description": "A high-conversion group benefits insurance quote funnel with integrated Twilio verification and LeadConnector synchronization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
